@@ -1,0 +1,3 @@
+Hello 
+This is DevOps Lab exercise 3
+Working with GIT commands
